@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: WooB Study # the main title
 
-tagline: Full Stack # it will display as the sub-title
+tagline: Full Stack Study # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Web, App
